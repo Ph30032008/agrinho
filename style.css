@@ -1,11 +1,11 @@
 body{
 
-     background-color: rgb(167, 104, 226);
+     background-color: rgb(58, 3, 110);
 
 }
 
 header{
     display: flex;
-    background-color: rgb(38, 0, 73);
+    background-color: rgb(133, 73, 190);
     justify-content: space-between;
 }
